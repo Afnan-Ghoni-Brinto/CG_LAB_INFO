@@ -29,8 +29,8 @@ void display()
     glColor3f(0.0f, 1.0f, 0.0f);//Red
     glVertex2f(0.0f,0.0f);
 
-   // glColor3f(1.0f,0.0f,1.0f);//purple
-  // glVertex2f(0.30f,0.30f);
+    glColor3f(1.0f,0.0f,1.0f);//purple
+    glVertex2f(0.30f,0.30f);
 
    // glColor3f(0.0f,0.0f,1.0f);//blue
   // glVertex2f(0.30f,-0.30f);
